@@ -1,0 +1,24 @@
+# Build results
+bin/
+obj/
+*.exe
+*.dll
+
+# User-specific files
+*.user
+*.suo
+
+# Environment files
+.env
+
+# VS Code settings
+.vscode/
+
+# Others
+*.log
+*.cache
+*.pdb
+*.mdb
+TestResults/
+*.db
+*.sqlite

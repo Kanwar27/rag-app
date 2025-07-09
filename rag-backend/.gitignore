@@ -1,0 +1,29 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+env/
+.venv/
+ENV/
+
+# Environment variables
+.env
+
+# Logs and temporary files
+*.log
+*.sqlite3
+*.db
+
+# IDE settings
+.vscode/
+*.code-workspace
+.idea/
+
+# Distribution
+dist/
+build/
+*.egg-info/
